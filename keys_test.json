@@ -2,11 +2,13 @@
   "keys": {
     "KEY-2303011285950012232": {
       "expires_at": "30-06-2026 16:41:00",
-      "status": "active"
+      "status": "active",
+      "hwid": ""
     },
     "phuocprovip": {
       "expires_at": "02-07-2027 15:30:00",
-      "status": "active"
+      "status": "active",
+      "hwid": ""
     }
   }
 }
