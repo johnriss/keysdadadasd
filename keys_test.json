@@ -19,6 +19,11 @@
       "expires_at": "5-07-2027 15:30:00",
       "status": "active",
       "hwid": ""
+    },
+    "KEY-2451212vinhvien": {
+      "expires_at": "5-07-2027 15:30:00",
+      "status": "active",
+      "hwid": ""
     }
   }
 }
